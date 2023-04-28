@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dev Duckling</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devduckling&label=Profile%20views&color=0e75b6&style=flat" alt="devduckling" /> </p>
 
-- 🌱 I’m currently learning **Web Development BootCamp by Dr.Angela Yu**
+- 🌱 I’m currently learning **Web Development through courses on udemy, youtube and official docs**
 
 - 👨‍💻 All of my projects are available at [https://devduckling.github.io/Capstone-Project-2/page/projects.html](https://devduckling.github.io/Capstone-Project-2/page/projects.html)
 
